@@ -5,13 +5,17 @@
     <description></description>
     <link>http://gdg-nn.github.io/</link>
     <atom:link href="http://gdg-nn.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 22 Aug 2016 19:53:22 +0300</pubDate>
-    <lastBuildDate>Mon, 22 Aug 2016 19:53:22 +0300</lastBuildDate>
+    <pubDate>Thu, 08 Sep 2016 19:56:33 +0300</pubDate>
+    <lastBuildDate>Thu, 08 Sep 2016 19:56:33 +0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Call for Papers</title>
-        <description>&lt;p&gt;GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.&lt;/p&gt;
+        <title>Поиск докладчиков</title>
+        <description>&lt;p&gt;Here we are! Вас ждет жаркий декабрь. Команда GDG Nizhny готовит второй масштабный DevFest в Нижнем Новгороде. Будем говорить про IoT, Google Cloud и Google APIs, виртуальную и дополненную реальность, Modern Web Application Development, Firebase Interaction etc.&lt;/p&gt;
+
+&lt;p&gt;Мы в поиске талантливых и нестеснительных разработчиков. Пора признаться самому себе, что ты ждал минуту славы. Приходи и забери ее! Нам интересны хардкорные технические доклады, hands-on сессии, исследования. С нас: аудитория в 400+ человек и travel-поддержка, если ты не в Нижнем или даже не в России.&lt;/p&gt;
+
+&lt;p&gt;Мы подготовили темы, которые считаем интересными. Но если у тебя есть своя крутая идея – you are welcome, не ограничивайся списком ниже.&lt;/p&gt;
 
 &lt;h4 id=&quot;presenters--who-should-speak-at-the-devfest-conference&quot;&gt;Presenters – who should speak at the DevFest Conference?&lt;/h4&gt;
 
@@ -84,7 +88,7 @@
 &lt;h4 id=&quot;any-questions&quot;&gt;Any questions?&lt;/h4&gt;
 &lt;p&gt;Email organizers at &lt;a href=&quot;mailto:devfest@gdg.org.ua&quot;&gt;devfest@gdg.org.ua&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 21 Jul 2014 12:00:00 +0300</pubDate>
+        <pubDate>Thu, 01 Sep 2016 11:00:00 +0300</pubDate>
         <link>http://gdg-nn.github.io/blog/call-for-papers</link>
         <guid isPermaLink="true">http://gdg-nn.github.io/blog/call-for-papers</guid>
         
@@ -126,7 +130,7 @@ the final missing parts to the biggest Google related event in Ukraine - &lt;a h
 
 &lt;p&gt;More details about speakers, DevFest Hackathon and Lviv will appear in subsequent posts, meantime like us on &lt;a href=&quot;https://facebook.com/GDGLviv&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/intent/user?screen_name=GDGLviv&quot;&gt;Twitter&lt;/a&gt;, add to circles in &lt;a href=&quot;https://plus.google.com/b/102444623953913144164&quot;&gt;Google+&lt;/a&gt; or subcribe to our &lt;a href=&quot;http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;amp;id=ae0fb459fc&quot;&gt;mailing list&lt;/a&gt; and &lt;a href=&quot;http://devfest.gdg.org.ua/feed.xml&quot;&gt;RSS feed&lt;/a&gt; in order not to miss any cool stuff about festival.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 21 Jul 2014 11:00:00 +0300</pubDate>
+        <pubDate>Wed, 31 Aug 2016 11:00:00 +0300</pubDate>
         <link>http://gdg-nn.github.io/blog/hello-world</link>
         <guid isPermaLink="true">http://gdg-nn.github.io/blog/hello-world</guid>
         
