@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://gdg-nn.github.io/blog/call-for-papers</loc>
+<loc>http://devfest.gdgnn.ru/blog/call-for-papers</loc>
 <lastmod>2016-09-01T11:00:00+03:00</lastmod>
 </url>
 <url>
-<loc>http://gdg-nn.github.io/blog/hello-world</loc>
+<loc>http://devfest.gdgnn.ru/blog/hands-up</loc>
 <lastmod>2016-08-31T11:00:00+03:00</lastmod>
 </url>
 <url>
-<loc>http://gdg-nn.github.io/cod/</loc>
+<loc>http://devfest.gdgnn.ru/cod/</loc>
 </url>
 <url>
-<loc>http://gdg-nn.github.io/</loc>
+<loc>http://devfest.gdgnn.ru/</loc>
 </url>
 <url>
-<loc>http://gdg-nn.github.io/logistics/</loc>
+<loc>http://devfest.gdgnn.ru/logistics/</loc>
 </url>
 <url>
-<loc>http://gdg-nn.github.io/schedule/</loc>
+<loc>http://devfest.gdgnn.ru/schedule/</loc>
 </url>
 <url>
-<loc>http://gdg-nn.github.io/speakers/</loc>
+<loc>http://devfest.gdgnn.ru/speakers/</loc>
 </url>
 <url>
-<loc>http://gdg-nn.github.io/team/</loc>
+<loc>http://devfest.gdgnn.ru/team/</loc>
 </url>
 </urlset>
